@@ -8,7 +8,7 @@ class Music {
 
 var musics = [
     new Music("Musics/Cave.mp3", "Cave", "This music was made in 4 days for the “AAAAAAAh” game.\nI used chiptune and bla bla bla..."),
-    new Music("Musics/Desert1.mp3", "Desert1", "bla bla bla..."),
+    new Music("Musics/Desert1.mp3", "Desert1", "Music for Desert"),
     new Music("Musics/Desert2.mp3", "Desert2", "bla bla bla..."),
     new Music("Musics/Desert3.mp3", "Desert3", "bla bla bla..."),
     new Music("Musics/Desert4.mp3", "Desert4", "bla bla bla..."),
