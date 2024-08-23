@@ -1,0 +1,5 @@
+This website was made by 3boood_pro as a gift for a legendary guy called Hazem
+
+Love you bro :)
+
+used Vue.js and bootstrap
