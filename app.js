@@ -8,12 +8,12 @@ class Music {
 
 var musics = [
     new Music("Musics/Cave.mp3", "Cave", "This music was made in 4 days for the “AAAAAAAh” game.\nI used chiptune and bla bla bla..."),
-    new Music("Musics/Desert1.mp3", "Desert1", "Music for Desert"),
-    new Music("Musics/Desert2.mp3", "Desert2", "bla bla bla..."),
-    new Music("Musics/Desert3.mp3", "Desert3", "bla bla bla..."),
-    new Music("Musics/Desert4.mp3", "Desert4", "bla bla bla..."),
-    new Music("Musics/Desert5.mp3", "Desert5", "bla bla bla..."),
-    new Music("Musics/Desert6.mp3", "Desert6", "bla bla bla..."),
+    new Music("Musics/Desert 1.mp3", "Desert1", "bla bla bla..."),
+    new Music("Musics/Desert 2.mp3", "Desert2", "bla bla bla..."),
+    new Music("Musics/Desert 3.mp3", "Desert3", "bla bla bla..."),
+    new Music("Musics/Desert 4.mp3", "Desert4", "bla bla bla..."),
+    new Music("Musics/Desert 5.mp3", "Desert5", "bla bla bla..."),
+    new Music("Musics/Desert 6.mp3", "Desert6", "bla bla bla..."),
     new Music("Musics/Dungeon.mp3", "Dungeon", "bla bla bla..."),
     new Music("Musics/EDM.wav", "EDM", "bla bla bla..."),
     new Music("Musics/Electro swing.mp3", "Electro Swing", "bla bla bla..."),
